@@ -1,0 +1,2 @@
+# DOT-AND-KEY---BRAND-HEALTH-AND-CUSTOMER-SENTIMENT-ANALYSIS
+uilt an end-to-end data analytics project to analyse real customer sentiment for Dot &amp; Key, one of India's top D2C skincare brands.   Scraped 1,000 reviews from their Google Play Store app using Python (google-play-scraper) in Google Colab. Performed sentiment classification, theme tagging across 4 business categories (Delivery &amp; Orders, App Expe.)
